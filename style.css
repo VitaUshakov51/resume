@@ -96,7 +96,7 @@ a {
     }
 }
 .profile .picture-resume {
-    width: 180px;
+    width: 195px;
     height: 180px;
     background-size: cover;
     border-radius: 50%;
@@ -125,7 +125,7 @@ a {
 }
 @media (max-width: 1200px) {
     .profile .picture-resume img {
-        width: 180px;
+        width: 195px;
         height: 180px;
     }
 }
